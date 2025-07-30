@@ -1,0 +1,10 @@
+# Core Dependencies
+requests==2.31.0
+colorama==0.4.6
+pytz==2024.1
+
+# Discord Webhook Support
+discord-webhook==1.1.0
+
+# CAPTCHA Harvester Library (no WebDriver needed)
+captcha-harvester==1.1.0
